@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2021-11-01
 venue: '2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/9629837)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9629837'
 citation: 'A. Arjun, A. S. Rajpoot and M. Raveendranatha Panicker, "Introducing Attention Mechanism for EEG Signals: Emotion Recognition with Vision Transformers," 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021'
 ---
 
