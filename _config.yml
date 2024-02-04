@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun"
 title_separator          : "-"
 name                     : &name "Arjun"
-description              : &description "Arjun is a Computer Science Master's student at NYU with a background in Electrical Engineering from IIT Palakkad. Skilled in programming and web technologies, he has contributed to cutting-edge research in computational neuroscience at renowned labs. Arjun's work, documented in respected publications, reflects his dedication to merging technology with cognitive insights. His notable projects, such as Geo-Notes, highlight his innovative approach to solving practical challenges."
+description              : &description ""
 url                      : https://arjunsinghrathore.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjunsinghrathore.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arjun"
   avatar           : "profile.png"
-  bio              : "Arjun, a Master's student in Computer Science at New York University's Courant Institute of Mathematical Sciences, has a strong foundation in Electrical Engineering from the Indian Institute of Technology Palakkad. He possesses a diverse set of technical skills including proficiency in languages like C++, Python, Java, and web technologies such as React.js and Node.js. Arjun has applied his expertise in prestigious research labs like the Serre Lab at Brown University and the Cognitive & Neural Computation Lab at UC-Irvine, contributing to projects that bridge computational methods with cognitive science insights. His work has led to notable publications in peer-reviewed journals and conferences, showcasing his commitment to advancing knowledge in the intersection of technology and cognitive sciences. Arjun's passion for leveraging technology to solve real-world problems is evident through his projects like Geo-Notes, which enhances travel experiences through geographical memory recall."
+  bio              : ""
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
