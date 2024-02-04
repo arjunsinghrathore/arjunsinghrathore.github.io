@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Subject Independent Emotion Recognition using EEG Signals Employing Attention Driven Neural Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper introduces a novel deep learning framework for subject-independent emotion recognition using EEG data. It employs an unsupervised LSTM with a channel-attention autoencoder to extract subject-invariant features, followed by a CNN with an attention mechanism for emotion classification. This approach shows promising results across various datasets, achieving state-of-the-art accuracies and demonstrating the potential for a comprehensive tool for EEG analysis that doesn't rely on hand-engineered features.'
+date: 2022-05-01
+venue: 'Biomedical Signal Processing and Control'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1746809422000696'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper introduces a novel deep learning framework for subject-independent emotion recognition using EEG data. It employs an unsupervised LSTM with a channel-attention autoencoder to extract subject-invariant features, followed by a CNN with an attention mechanism for emotion classification. This approach shows promising results across various datasets, achieving state-of-the-art accuracies and demonstrating the potential for a comprehensive tool for EEG analysis that doesn't rely on hand-engineered features.
