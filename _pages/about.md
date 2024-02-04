@@ -12,7 +12,7 @@ I'm Arjun, currently at the exciting intersection of machine learning, software 
 
 <h2 style="font-size: larger;"><strong>Projects:</strong></h2>
 - **Geo-Notes**: A digital diary that anchors your memories to geographical locations, transforming the world into a canvas for your stories. Discover more about this enchanting way to capture your life's moments [Geo-Notes Web Page](https://geo-notes-unique123-9b77e082dace.herokuapp.com/).
-- **Advanced Music Synthesis**: Crafted a multi-instrument music composition model using Transformer-XL and MIDI data, further refined by a Hierarchical Vector Quantised Variational Autoencoder with Sparse Transformers for high-fidelity audio synthesis. [Github Link](https://github.com/AniketRajpoot/DeepMusicGeneration).
+- **Advanced Music Synthesis**: Crafted a multi-instrument music composition model using Transformer-XL and MIDI data, further refined by a Hierarchical Vector Quantised Variational Autoencoder with Sparse Transformers for high-fidelity raw waveform audio synthesis. [Github Link](https://github.com/AniketRajpoot/DeepMusicGeneration).
 
 <h2 style="font-size: larger;"><strong>Publications:</strong></h2>
 - **Subject Independent Emotion Recognition using EEG Signals Employing Attention Driven Neural Networks**. (Biomedical Signal Processing and Control, 2022) [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S1746809422000696)
