@@ -3,7 +3,7 @@ title: "Subject Independent Emotion Recognition using EEG Signals Employing Atte
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2022-05-01
+date: 2022-06-07
 venue: 'Biomedical Signal Processing and Control'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1746809422000696'
 citation: 'Arjun, Aniket Singh Rajpoot, Mahesh Raveendranatha Panicker, Subject independent emotion recognition using EEG signals employing attention driven neural networks, Biomedical Signal Processing and Control, Volume 75, 2022,'
