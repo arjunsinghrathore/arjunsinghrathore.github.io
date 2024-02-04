@@ -54,13 +54,12 @@ $light-gray    : mix(#fff, $gray, 50%);
 $lighter-gray  : mix(#fff, $gray, 90%);
 $white         : #ffffff; // Adding white to the color scheme
 
-
 $body-color                 : #fff;
-$background-color           : $darker-gray;
+$background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $white;
-$text-color                 : $white;
-$border-color               : $white;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
