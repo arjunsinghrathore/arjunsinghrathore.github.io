@@ -10,7 +10,7 @@ redirect_from:
 
 I’m Arjun, currently exploring the cutting edge of generative agents, generative modeling, and machine learning while pursuing my Master’s in Computer Science at NYU’s Courant Institute of Mathematical Sciences. My journey, from my foundation in electrical engineering at IIT Palakkad to my current work, has been shaped by hands-on experience in leading research labs like the Serre Lab at Brown University and the Princeton NLP Group.
 
-I’ve worked on projects spanning generative modeling in healthcare at NYU Grossman, where I developed synthetic medical images using advanced diffusion models. I am designing generative agents during my time at Princeton currently. My experience includes deep learning, machine learning, and software development, with applications ranging from large-scale medical data generation to innovative AI-powered solutions.
+I’ve worked on projects spanning generative modeling in healthcare at NYU Grossman, where I developed synthetic medical images using advanced diffusion models. I am designing generative agents during my time at Princeton currently. My experience includes deep learning, machine learning, and software development, with applications ranging from computer vision, and natural language processing to innovative AI-powered solutions.
 
 I’m currently open to opportunities in machine learning, research engineering, AI engineering, data science, and software engineering, where I can continue to apply my skills and contribute to impactful, real-world solutions.
 
