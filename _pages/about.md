@@ -56,9 +56,9 @@ I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and M
 - **[Advanced Music Generation using Language Models](https://github.com/AniketRajpoot/DeepMusicGeneration)** · *PyTorch, Python*  
   Combined **Transformer‑XL** with **VQ‑VAE** for multi‑instrument music generation, achieving near‑lossless 6× audio compression.
 
-  - **CineConnect WebApp**: Built CineConnect, a scalable movie-sharing website using a microservices architecture. Utilized React for the front end and Node.js for the back end, deployed on AWS EKS (Elastic Kubernetes Service) with EC2 instances. Implemented MongoDB for user data and movie metadata management, enhancing performance and reliability [Github](https://github.com/arjunsinghrathore/movie-website).
+  - **[CineConnect WebApp] (https://github.com/arjunsinghrathore/movie-website)**: Built CineConnect, a scalable movie-sharing website using a microservices architecture. Utilized React for the front end and Node.js for the back end, deployed on AWS EKS (Elastic Kubernetes Service) with EC2 instances. Implemented MongoDB for user data and movie metadata management, enhancing performance and reliability.
   - 
-  - **Geo-Notes**: A digital diary that anchors your memories to geographical locations, transforming the world into a canvas for your stories. Discover more about this enchanting way to capture your life's moments [Geo-Notes Web Page](https://geo-notes-unique123-9b77e082dace.herokuapp.com/).
+  - **[Geo-Notes](https://geo-notes-unique123-9b77e082dace.herokuapp.com/)**: A digital diary that anchors your memories to geographical locations, transforming the world into a canvas for your stories. Discover more about this enchanting way to capture your life's moments.
 
 <h2 style="font-size: larger;"><strong>Publications:</strong></h2>
 - **Agent Context Protocols Enhance Collective Inference**. Under Review at COLM 2025 (Link Coming Soon)
