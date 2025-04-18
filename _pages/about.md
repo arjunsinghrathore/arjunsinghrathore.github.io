@@ -8,11 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I’m Arjun, currently exploring the cutting edge of generative agents, generative modeling, and machine learning while pursuing my Master’s in Computer Science at NYU’s Courant Institute of Mathematical Sciences. My journey, from my foundation in electrical engineering at IIT Palakkad to my current work, has been shaped by hands-on experience in leading research labs like the Serre Lab at Brown University and the Princeton NLP Group.
+# 👋 Hi, I’m **Arjun**
 
-I’ve worked on projects spanning generative modeling in healthcare at NYU Grossman, where I developed synthetic medical images using advanced diffusion models. I am designing generative agents during my time at Princeton currently. My experience includes deep learning, machine learning, and software development, with applications ranging from computer vision, and natural language processing to innovative AI-powered solutions.
+I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and Visual Spatial Understanding of Multimodal Models**.
 
-I’m currently open to opportunities in machine learning, research engineering, AI engineering, data science, and software engineering, where I can continue to apply my skills and contribute to impactful, real-world solutions.
+---
+
+## 🔭 Current Work
+
+- **Multi‑agent LLM coordination (Advisor: [Dr.&nbsp;Karthik Narsimhan](https://karthikncode.github.io/))** — Working at Princeton NLP Group to  
+  - design **Agent Context Protocols (ACPs)** that execute **Directed Acyclic Graph‑structured** workflows and dynamically equip each agent with the right tool (web search, Python, filesystem, Google APIs, etc) through **Model Context Protocol (MCP)** servers.
+
+- **Multimodal spatial understanding** — Post‑training **DINOv2, CLIP, and SigLIP** like models with **language‑guided visual grounding** techniques; constructing a dense local‑region ↔ caption dataset via an automated pipeline that pairs **Llama‑Vision‑Instruct** with **Segment Anything Model 2** to generate fine‑grained dataset.
+
+- **Liver-based Disease Detection using MultiModal Models (Advisor: [Dr.&nbsp;Sumit Chopra](https://www.spchopra.net/#projects))** — Developing Liver Fibrosis Detection using MultiModal models with collaboration radiologists at NYU Langone Health. Developing an automated dataset generation pipeline using LLMs for extractig data from Radiology Reports and EHR Data.
+
+---
+
+## 🧑‍🔬 Previous Research Experience
+- **Serre Lab, Brown University (Advisor: [Dr.&nbsp;Thomas Serre](https://serre-lab.clps.brown.edu/research/))** — Worked on building Neuro‑Inspired Vision Models for Scale-Invariant Object Detection.
+
+---
+
+## 🚀 What I’m Looking For
+
+**Machine Learning Engineer** or **Research Engineer** roles at fast-paced and growth-oriented environments.
+
+---
+
+*Thanks for visiting—feel free to reach out if any of this resonates!*  
 
 <h2 style="font-size: larger;"><strong>Projects:</strong></h2>
 - **Understanding the Effects Of RLHF and DPO on LLMs**:Analyzed the impact of Direct Preference Optimization (DPO) and Reinforcement Learning from Human Feedback (RLHF) on LLMs’ output generalization and diversity by fine-tuning the Mistral-7B-v0.1 model for summarization tasks using advanced techniques like PEFT LoRA adapters and 4-bit quantization [Github](https://github.com/PranavGrandhi/DPO_RLHF).
