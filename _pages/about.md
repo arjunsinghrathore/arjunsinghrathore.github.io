@@ -27,9 +27,9 @@ I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and M
 
 ## 🚀 What I’m Looking For
 
----
-
 **Machine Learning Engineer** or **Research Engineer** roles at fast-paced and growth-oriented environments.
+
+---
 
 *Thanks for visiting—feel free to reach out if any of this resonates!*  
 
