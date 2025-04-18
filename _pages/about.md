@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and MultiModal Models**. *Thanks for visiting—feel free to reach out if any of this resonates!*
+I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and MultiModal Models**. *Thanks for visiting—feel free to reach out (at ax2119@nyu.edu) if any of this resonates!*
 
 ## 🔭 Current Work
 
