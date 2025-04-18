@@ -19,7 +19,7 @@ I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and M
   * Fine‑tuning vision encoders such as **DINOv2, CLIP, and SigLIP** with a **language‑guided visual‑grounding** stage to align local image region representations with language captions describing them.
   * Built an **automated dataset generation** pipeline in which **Llama‑Vision‑Instruct** writes region captions and **Segment Anything Model 2** provides masks, producing a large, high‑resolution **region ↔ caption** dataset that strengthens **spatial reasoning in downstream multimodal models**.  
 
-- **Liver Disease Detection with Multimodal Models (Advisor: [Dr.&nbsp;Sumit Chopra]([https://www.spchopra.net/#projects](https://www.spchopra.net/index.html)))**
+- **Liver Disease Detection with Multimodal Models (Advisor: [Dr.&nbsp;Sumit Chopra](https://www.spchopra.net/index.html))**
   * Collaborating with radiologists at NYU Langone Health to detect liver fibrosis by combining imaging and clinical features by training **MultiModal Models**.
   * Developing an LLM‑driven pipeline that extracts key findings from radiology reports and EHRs, turning a labor‑intensive labeling process into an **automated dataset generation** workflow for multimodal training.
 
