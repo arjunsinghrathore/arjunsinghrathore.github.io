@@ -44,6 +44,9 @@ I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and M
 - **[Text‑to‑SQL Context‑Aware Query System](https://github.com/AnanyaSSadana/text-to-sql-llm/tree/main)** · *Hugging Face, LangChain, ChromaDB, Python*  
   Built a Text‑to‑SQL pipeline with **Retrieval‑Augmented Generation (RAG)**; applied **PEFT LoRA** fine‑tuning to **Llama2‑7B** on WikiSQL & Spider and delivered an interactive IPEDS interface.
 
+- **[Advanced Music Generation using Language Models](https://github.com/AniketRajpoot/DeepMusicGeneration)** · *PyTorch, Python*  
+  Combined **Transformer‑XL** with **VQ‑VAE** for multi‑instrument music generation, achieving near‑lossless 6× audio compression.
+
 - **High‑Performance Vector Similarity Search with CUDA & IVF‑PQ Optimization** · *CUDA, C++*  
   Parallelized IVF‑PQ indexing and fine‑search on GPU, significantly accelerating large‑scale vector search for RAG pipelines.
 
@@ -52,13 +55,6 @@ I’m a graduate‑student researcher at NYU interested in **LLMs, Agents, and M
 
 - **[Loan Default Prediction System](https://github.com/arjunsinghrathore/Loan-Default-Prediction-System)** · *Kubernetes, Docker, AWS, Python*  
   Deployed an XGBoost‑based loan default predictor on **AWS EKS** with **Docker**, accelerating inference via **daal4py**.
-
-- **[Advanced Music Generation using Language Models](https://github.com/AniketRajpoot/DeepMusicGeneration)** · *PyTorch, Python*  
-  Combined **Transformer‑XL** with **VQ‑VAE** for multi‑instrument music generation, achieving near‑lossless 6× audio compression.
-
-  - **[CineConnect WebApp] (https://github.com/arjunsinghrathore/movie-website)**: Built CineConnect, a scalable movie-sharing website using a microservices architecture. Utilized React for the front end and Node.js for the back end, deployed on AWS EKS (Elastic Kubernetes Service) with EC2 instances. Implemented MongoDB for user data and movie metadata management, enhancing performance and reliability.
-  - 
-  - **[Geo-Notes](https://geo-notes-unique123-9b77e082dace.herokuapp.com/)**: A digital diary that anchors your memories to geographical locations, transforming the world into a canvas for your stories. Discover more about this enchanting way to capture your life's moments.
 
 <h2 style="font-size: larger;"><strong>Publications:</strong></h2>
 - **Agent Context Protocols Enhance Collective Inference**. Under Review at COLM 2025 (Link Coming Soon)
